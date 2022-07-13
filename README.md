@@ -1,1 +1,0 @@
-# kanazawanagisa.github.io
