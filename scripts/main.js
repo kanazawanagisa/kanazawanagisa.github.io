@@ -25,7 +25,7 @@ if(!localStorage.getItem('name')) {
   setUserName();
 } else {
   let storedName = localStorage.getItem('name');
-  myHeading.textContent = 'Wecome!' + storedName;
+  myHeading.textContent = 'storedName+'さんようこそ';
 }
 myButton.onclick = function() {
   setUserName();
